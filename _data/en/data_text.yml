@@ -1,0 +1,127 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: left # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Ludovic Kernalléguen
+  tagline: Software Architect & Technical Lead
+  avatar: profile_lk.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: lkernalleguen.jobs@gmail.com
+  phone:
+  timezone: Europe/Paris # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship:
+  website: # Include the full website URL, including "http://" or "https://".
+  linkedin: www.linkedin.com/in/ludovic-kernalléguen-06b6575
+  xing:
+  github:
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky: # Specify your full Bluesky handle
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  languages:
+    title: Languages
+    info:
+    - idiom: French
+      level: Native
+    - idiom: English
+      level: Fluent
+    - idiom: German
+      level: Intermediate
+
+  interests:
+    title: Interests
+    info:
+    - item: Travel
+    - item: Reading
+    - item: Lego
+    - item: Concerts
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Software architect and technical lead with nearly 20 years of experience in enterprise application development.
+    Expert in Java technologies, databases, and microservices architectures.
+    With a dual background in chemical engineering and computer science, I have successfully evolved from development roles to technical leadership and team management, while maintaining deep technical expertise.
+    I am particularly experienced in document management systems, archiving standards, and cloud SaaS application deployment.
+
+education:
+  title: Education
+  info:
+  - degree: MSc in Chemoinformatics
+    university: University of Strasbourg, France
+    time: 2005 - 2006
+    details:
+  - degree: MSc in Mechanics and Engineering, Biomechanics Option
+    university: University of Strasbourg, France
+    time: 2005 - 2005
+    details:
+  - degree: Engineering Degree in Chemistry, Polymers Option
+    university: European School of Chemistry, Polymers and Materials (ECPM) of Strasbourg, France
+    time: 2002 - 2005
+    details:
+
+experiences:
+  title: Experiences
+  info:
+  - role: Technical Lead & Architect - Zero Vrac
+    time: 2023 - Present
+    company: Spark Archives, Le Plessis-Robinson
+    details: |
+      As Technical Lead and Architect, I lead a team of 5 developers for the creation of an innovative digital content management solution.
+      I designed the microservices architecture in a containerized environment and implemented the complete CI/CD pipeline and infrastructure.
+      I actively contribute to backend development while ensuring effective coordination with the product team.
+      I organize work according to agile methodology with 3-week sprints to ensure regular delivery of quality features.
+    skills: Java 21, Spring Boot, React, Opensearch, RabbitMQ, Docker, CI/CD, DevOps, Agile Methodology, Microservices architecture, SaaS, Team management, Project coordination
+  - role: Software Architect - Spark Solution
+    time: 2018 - 2023
+    company: Spark Archives, Le Plessis-Robinson
+    details: |
+      I evolved into the role of architect for the physical and electronic records management solution, taking responsibility for the technical architecture and technology choices.
+      I ensured software compliance with NF and ISO standards for electronic archiving, while driving the modernization of the technical stack to improve system performance and scalability.
+      I also developed custom Maven plugins to optimize and automate our build processes, as well as IntelliJ IDEA plugins to enhance the development team's productivity and standardize coding practices.
+    skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, ISO and NF standards for electronic archiving, Maven plugin development, IntelliJ plugin development
+  - role: Tech Lead - Spark Solution
+    time: 2015 - 2018
+    company: Spark Archives, Le Plessis-Robinson
+    details: |
+      As technical lead of the R&D team, I coordinated the development and integration of various components of the Spark solution.
+      I took charge of developing critical functionalities and provided technical supervision to developers, while maintaining a high level of code quality and establishing effective development practices.
+    skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, Technical leadership, Mentoring
+  - role: Senior Developer - R&D Team
+    time: 2013 - 2015
+    company: Spark Archives, Le Plessis-Robinson
+    details: |
+      I joined the R&D team for the development of the Spark solution, where I participated in the design and implementation of records management features.
+      I actively contributed to the evolution of the technical stack, proposing and implementing improvements to optimize the application's performance and usability.
+    skills: Java, JSF, Oracle, PostgreSQL, Elasticsearch, RabbitMQ
+  - role: Tech Lead & Project Manager
+    time: 2010 - 2013
+    company: Kleegroup, Le Plessis-Robinson
+    details: |
+      As technical lead on web application projects for government agencies, I managed projects and coordinated development teams.
+      I took responsibility for maintenance and bug resolution for delivered projects, ensuring client satisfaction and stability of deployed solutions.
+    skills: Java, JSP, SQL, PL/SQL, Oracle, Tomcat, Project management, Mentoring
+  - role: Full Stack Developer
+    time: 2007 - 2010
+    company: Kleegroup, Le Plessis-Robinson
+    details: |
+      I developed web management applications using Java/JSP for various government clients.
+      Notably, I created a desktop application in C#/WPF for the Ministry of Defense and developed a WPF component library for managing the national defense service day.
+      I was also responsible for installing and configuring client environments, including Tomcat servers and Oracle databases.
+    skills: Java, JSP, C#, WPF, SQL, PL/SQL, Oracle, Tomcat

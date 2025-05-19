@@ -83,45 +83,54 @@ experiences:
       time: 2023 - Present
       company: Spark Archives, Le Plessis-Robinson
       details: |
-        En tant que responsable technique et architecte, je dirige une équipe de 5 développeurs pour la création d'une solution innovante de gestion de vracs numériques.
-        J'ai conçu l'architecture microservices en environnement containerisé et mis en place la chaîne complète de CI/CD ainsi que l'infrastructure nécessaire.
-        Je participe activement au développement backend tout en assurant une coordination efficace avec l'équipe produit.
-        J'organise le travail selon la méthodologie agile avec des sprints de 3 semaines pour garantir une livraison régulière de fonctionnalités de qualité.
+        - Direction d'une équipe de 5 développeurs pour la création d'une solution innovante de gestion de vracs numériques
+        - Conception de l'architecture microservices en environnement containerisé
+        - Mise en place et gestion complète de la chaîne CI/CD et de l'infrastructure
+        - Développement backend et coordination avec l'équipe produit
+        - Organisation du travail en méthodologie agile avec sprints de 3 semaines
       skills: Java 21, Spring Boot, React, Opensearch, RabbitMQ, Docker, CI/CD, DevOps, Méthodologie Agile, Architecture microservices, SaaS, Gestion d'équipe, Coordination de projets
     - role: Architecte Logiciel - Solution Spark
       time: 2018 - 2023
       company: Spark Archives, Le Plessis-Robinson
       details: |
-        J'ai évolué vers le rôle d'architecte pour la solution de gestion d'archives physiques et électroniques, prenant la responsabilité de l'architecture technique et des choix technologiques.
-        J'ai veillé à garantir la conformité du logiciel aux normes NF et ISO pour l'archivage électronique, tout en pilotant la modernisation de la stack technique pour améliorer les performances et l'évolutivité du système.
-        J'ai également développé des plugins Maven personnalisés pour optimiser et automatiser nos processus de build, ainsi que des plugins pour IntelliJ IDEA afin d'améliorer la productivité de l'équipe de développement et standardiser les pratiques de codage.
+        - Évolution vers le rôle d'architecte pour la solution de gestion d'archives physiques et électroniques
+        - Responsabilité de l'architecture technique et des choix technologiques
+        - Garantie de la conformité du logiciel aux normes NF et ISO pour l'archivage électronique
+        - Modernisation de la stack technique
+        - Développement de plugins Maven personnalisés pour optimiser et automatiser les processus de build
+        - Création de plugins pour IntelliJ IDEA afin d'améliorer la productivité de l'équipe et standardiser les pratiques de codage
       skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, Normes ISO et NF pour l'archivage électronique, Développement de plugins Maven, Développement de plugins IntelliJ
     - role: Tech Lead - Solution Spark
       time: 2015 - 2018
       company: Spark Archives, Le Plessis-Robinson
       details: |
-        En tant que lead technique de l'équipe R&D, j'ai coordonné le développement et l'intégration des différents composants de la solution Spark.
-        J'ai pris en charge le développement des fonctionnalités critiques et assuré la supervision technique des développeurs, tout en veillant à maintenir un haut niveau de qualité du code et en instaurant des pratiques de développement efficaces.
+        - Lead technique de l'équipe R&D
+        - Coordination du développement et de l'intégration des composants
+        - Développement des fonctionnalités critiques
+        - Supervision technique des développeurs
       skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, Leadership technique, Mentoring
     - role: Développeur Senior - Équipe R&D
       time: 2013 - 2015
       company: Spark Archives, Le Plessis-Robinson
       details: |
-        J'ai intégré l'équipe R&D pour le développement de la solution Spark, où j'ai participé à la conception et à l'implémentation de fonctionnalités de gestion d'archives.
-        J'ai contribué activement à l'évolution de la stack technique, en proposant et en mettant en œuvre des améliorations pour optimiser les performances et l'ergonomie de l'application.
+        - Intégration de l'équipe R&D pour le développement de la solution Spark
+        - Conception et implémentation de fonctionnalités de gestion d'archives
+        - Participation à l'évolution de la stack technique
       skills: Java, JSF, Oracle, PostgreSQL, Elasticsearch, RabbitMQ
     - role: Tech Lead & Chef de Projet
       time: 2010 - 2013
       company: Kleegroup, Le Plessis-Robinson
       details: |
-        En tant que lead technique sur des projets d'applications web pour des organismes gouvernementaux, j'ai assuré la gestion de projets et la coordination d'équipes de développement.
-        J'ai pris en charge la responsabilité de la maintenance et de la résolution de bugs pour des projets livrés, garantissant ainsi la satisfaction des clients et la stabilité des solutions déployées.
+        - Lead technique sur des projets d'applications web pour des organismes gouvernementaux
+        - Gestion de projets et coordination d'équipes de développement
+        - Responsabilité de la maintenance et de la résolution de bugs pour des projets livrés
       skills: Java, JSP, SQL, PL/SQL, Oracle, Tomcat, Gestion de projets, Mentoring
     - role: Développeur Full Stack
       time: 2007 - 2010
       company: Kleegroup, Le Plessis-Robinson
       details: |
-        J'ai développé des applications web de gestion en Java/JSP pour divers clients gouvernementaux.
-        J'ai notamment créé une application desktop en C#/WPF pour le ministère de la Défense et développé une bibliothèque de composants WPF pour la gestion de la journée d'appel à la défense.
-        J'ai également été en charge de l'installation et de la configuration d'environnements clients, incluant des serveurs Tomcat et des bases de données Oracle.
+        - Développement d'applications web de gestion en Java/JSP
+        - Création d'une application desktop en C#/WPF pour le ministère de la Défense
+        - Développement d'une bibliothèque de composants WPF pour la gestion de la journée d'appel à la défense
+        - Installation et configuration d'environnements clients (Tomcat, Oracle)
       skills: Java, JSP, C#, WPF, SQL, PL/SQL, Oracle, Tomcat

@@ -20,7 +20,6 @@
       </div><!--//upper-row-->
 
       <div class="company">{{ experience.company }}</div>
-
     </div><!--//meta-->
 
     {% if experience.details %}
@@ -29,9 +28,18 @@
     </div><!--//details-->
     {% endif %}
 
+    {% if experience.skills %}
+    <div class="skills">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+      </span>
+      {{ experience.skills }}
+    </div><!--//skills-->
+    {% endif %}
+
   </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
 {% endif %}
-

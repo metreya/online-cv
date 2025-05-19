@@ -202,7 +202,7 @@ p {
     font-weight: 500;
     flex: 75%;
   }
- 
+
   .time,
   .cert-url {
     position: absolute;
@@ -260,6 +260,18 @@ p {
     }
     .item {
       margin-bottom: 15px;
+    }
+  }
+
+  .skills {
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 0;
+  }
+  .experiences-section {
+    margin-bottom: 0;
+    .item:last-child {
+      margin-bottom: 0;
     }
   }
 }

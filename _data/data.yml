@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Ludovic Kernalléguen
-  tagline: Architecte Logiciel & Responsable Technique
+  tagline: Software Architect & Technical Lead
   avatar: profile_lk.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -32,107 +32,107 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: /assets/pdf/resume-ludovic-kernalleguen-fr.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: /assets/pdf/resume-ludovic-kernalleguen-en.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Langues
+    title: Languages
     info:
-      - idiom: Français
-        level: Langue maternelle
-      - idiom: Anglais
-        level: Courant
-      - idiom: Allemand
-        level: Intermédiaire
+      - idiom: French
+        level: Native
+      - idiom: English
+        level: Fluent
+      - idiom: German
+        level: Intermediate
 
   interests:
-    title: Centres d'intérêt
+    title: Interests
     info:
-      - item: Voyages
-      - item: Lecture
+      - item: Travel
+      - item: Reading
       - item: Lego
       - item: Concerts
 
   skills:
-    title: Compétences
+    title: Skills
     info:
       - detail: Java, Spring Boot, Elasticsearch/Opensearch, RabbitMQ, Docker, CI/CD (Jenkins)
-        title: Technique
-      - detail: DevOps, Méthodologie Agile, Scrum
-        title: Méthodologie
-      - detail: Gestion d'équipe, Coordination de projet, Mentoring
+        title: Technical
+      - detail: DevOps, Agile, Scrum
+        title: Methodology
+      - detail: Team management, Project coordination, Mentoring
         title: Leadership
 
 career-profile:
-  title: Profil
+  title: Career Profile
   summary: |
-    Architecte logiciel et responsable technique avec près de 20 ans d'expérience dans le développement d'applications d'entreprise.
-    Expert en technologies Java, bases de données, et architectures microservices.
-    Fort d'une double formation en ingénierie chimique et en informatique, j'ai su évoluer du développement vers des rôles de leadership technique et de gestion d'équipe, tout en maintenant une expertise technique approfondie.
-    Je suis particulièrement expérimenté dans les systèmes de gestion documentaire, les normes archivistiques, et le déploiement d'applications cloud en mode SaaS.
+    Software architect and technical lead with nearly 20 years of experience in enterprise application development.
+    Expert in Java technologies, databases, and microservices architectures.
+    With a dual background in chemical engineering and computer science, I have successfully evolved from development roles to technical leadership and team management, while maintaining deep technical expertise.
+    I am particularly experienced in document management systems, archiving standards, and cloud SaaS application deployment.
 
 education:
-  title: Formation
+  title: Education
   info:
-    - degree: Master en Chemoinformatique
-      university: Université de Strasbourg, France
+    - degree: MSc in Chemoinformatics
+      university: University of Strasbourg, France
       time: 2005 - 2006
       details:
-    - degree: Master en Mécanique et Ingénierie, option Biomécanique
-      university: Université de Strasbourg, France
+    - degree: MSc in Mechanics and Engineering, Biomechanics Option
+      university: University of Strasbourg, France
       time: 2005 - 2005
       details:
-    - degree: Diplôme d'Ingénieur en Chimie, option Polymères
-      university: École Européenne de Chimie, Polymères et Matériaux (ECPM) de Strasbourg, France
+    - degree: Engineering Degree in Chemistry, Polymers Option
+      university: European School of Chemistry, Polymers and Materials (ECPM) of Strasbourg, France
       time: 2002 - 2005
       details:
 
 experiences:
-  title: Expérience professionnelle
+  title: Experiences
   info:
-    - role: Responsable Technique & Architecte - Zero Vrac
+    - role: Technical Lead & Architect - Zero Vrac
       time: 2023 - Present
       company: Spark Archives, Le Plessis-Robinson
       details: |
-        En tant que responsable technique et architecte, je dirige une équipe de 5 développeurs pour la création d'une solution innovante de gestion de vracs numériques.
-        J'ai conçu l'architecture microservices en environnement containerisé et mis en place la chaîne complète de CI/CD ainsi que l'infrastructure nécessaire.
-        Je participe activement au développement backend tout en assurant une coordination efficace avec l'équipe produit.
-        J'organise le travail selon la méthodologie agile avec des sprints de 3 semaines pour garantir une livraison régulière de fonctionnalités de qualité.
-      skills: Java 21, Spring Boot, React, Opensearch, RabbitMQ, Docker, CI/CD, Jenkins, DevOps, Méthodologie Agile, Scrum, Architecture microservices, SaaS, Gestion d'équipe, Coordination de projets
-    - role: Architecte Logiciel - Solution Spark
+        As Technical Lead and Architect, I lead a team of 5 developers for the creation of an innovative digital content management solution.
+        I designed the microservices architecture in a containerized environment and implemented the complete CI/CD pipeline and infrastructure.
+        I actively contribute to backend development while ensuring effective coordination with the product team.
+        I organize work according to agile methodology with 3-week sprints to ensure regular delivery of quality features.
+      skills: Java 21, Spring Boot, React, Opensearch, RabbitMQ, Docker, CI/CD, Jenkins, DevOps, Agile Methodology, Scrum, Microservices architecture, SaaS, Team management, Project coordination
+    - role: Software Architect - Spark Solution
       time: 2018 - 2023
       company: Spark Archives, Le Plessis-Robinson
       details: |
-        J'ai évolué vers le rôle d'architecte pour la solution de gestion d'archives physiques et électroniques, prenant la responsabilité de l'architecture technique et des choix technologiques.
-        J'ai veillé à garantir la conformité du logiciel aux normes NF et ISO pour l'archivage électronique, tout en pilotant la modernisation de la stack technique pour améliorer les performances et l'évolutivité du système.
-        J'ai également développé des plugins Maven personnalisés pour optimiser et automatiser nos processus de build, ainsi que des plugins pour IntelliJ IDEA afin d'améliorer la productivité de l'équipe de développement et standardiser les pratiques de codage.
-        De plus, j'ai conçu et développé un client Android en Kotlin, déployé sur des terminaux Honeywell Dolphin CT 40, permettant aux opérateurs d'entrepôt de suivre et gérer les opérations sur les archives physiques.
-      skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, Normes ISO et NF pour l'archivage électronique, Développement de plugins Maven, Développement de plugins IntelliJ, Kotlin, Android
-    - role: Tech Lead - Solution Spark
+        I evolved into the role of architect for the physical and electronic records management solution, taking responsibility for the technical architecture and technology choices.
+        I ensured software compliance with NF and ISO standards for electronic archiving, while driving the modernization of the technical stack to improve system performance and scalability.
+        I also developed custom Maven plugins to optimize and automate our build processes, as well as IntelliJ IDEA plugins to enhance the development team's productivity and standardize coding practices.
+        Additionally, I designed and developed an Android client in Kotlin, deployed on Honeywell Dolphin CT 40 terminals, enabling warehouse operators to track and manage physical archive operations.
+      skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, ISO and NF standards for electronic archiving, Maven plugin development, IntelliJ plugin development, Kotlin, Android
+    - role: Tech Lead - Spark Solution
       time: 2015 - 2018
       company: Spark Archives, Le Plessis-Robinson
       details: |
-        En tant que lead technique de l'équipe R&D, j'ai coordonné le développement et l'intégration des différents composants de la solution Spark.
-        J'ai pris en charge le développement des fonctionnalités critiques et assuré la supervision technique des développeurs, tout en veillant à maintenir un haut niveau de qualité du code et en instaurant des pratiques de développement efficaces.
-      skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, Leadership technique, Mentoring
-    - role: Développeur Senior - Équipe R&D
+        As technical lead of the R&D team, I coordinated the development and integration of various components of the Spark solution.
+        I took charge of developing critical functionalities and provided technical supervision to developers, while maintaining a high level of code quality and establishing effective development practices.
+      skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, Technical leadership, Mentoring
+    - role: Senior Developer - R&D Team
       time: 2013 - 2015
       company: Spark Archives, Le Plessis-Robinson
       details: |
-        J'ai intégré l'équipe R&D pour le développement de la solution Spark, où j'ai participé à la conception et à l'implémentation de fonctionnalités de gestion d'archives.
-        J'ai contribué activement à l'évolution de la stack technique, en proposant et en mettant en œuvre des améliorations pour optimiser les performances et l'ergonomie de l'application.
+        I joined the R&D team for the development of the Spark solution, where I participated in the design and implementation of records management features.
+        I actively contributed to the evolution of the technical stack, proposing and implementing improvements to optimize the application's performance and usability.
       skills: Java, JSF, Oracle, PostgreSQL, Elasticsearch, RabbitMQ
-    - role: Tech Lead & Chef de Projet
+    - role: Tech Lead & Project Manager
       time: 2010 - 2013
       company: Kleegroup, Le Plessis-Robinson
       details: |
-        En tant que lead technique sur des projets d'applications web pour des organismes gouvernementaux, j'ai assuré la gestion de projets et la coordination d'équipes de développement.
-        J'ai pris en charge la responsabilité de la maintenance et de la résolution de bugs pour des projets livrés, garantissant ainsi la satisfaction des clients et la stabilité des solutions déployées.
-      skills: Java, JSP, SQL, PL/SQL, Oracle, Tomcat, Gestion de projets, Mentoring
-    - role: Développeur Full Stack
+        As technical lead on web application projects for government agencies, I managed projects and coordinated development teams.
+        I took responsibility for maintenance and bug resolution for delivered projects, ensuring client satisfaction and stability of deployed solutions.
+      skills: Java, JSP, SQL, PL/SQL, Oracle, Tomcat, Project management, Mentoring
+    - role: Full Stack Developer
       time: 2007 - 2010
       company: Kleegroup, Le Plessis-Robinson
       details: |
-        J'ai développé des applications web de gestion en Java/JSP pour divers clients gouvernementaux.
-        J'ai notamment créé une application desktop en C#/WPF pour le ministère de la Défense et développé une bibliothèque de composants WPF pour la gestion de la journée d'appel à la défense.
-        J'ai également été en charge de l'installation et de la configuration d'environnements clients, incluant des serveurs Tomcat et des bases de données Oracle.
+        I developed web management applications using Java/JSP for various government clients.
+        Notably, I created a desktop application in C#/WPF for the Ministry of Defense and developed a WPF component library for managing the national defense service day.
+        I was also responsible for installing and configuring client environments, including Tomcat servers and Oracle databases.
       skills: Java, JSP, C#, WPF, SQL, PL/SQL, Oracle, Tomcat

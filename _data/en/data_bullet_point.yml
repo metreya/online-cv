@@ -52,6 +52,16 @@ sidebar:
     - item: Lego
     - item: Concerts
 
+  skills:
+    title: Skills
+    info:
+      - detail: Java, Spring Boot, Elasticsearch/Opensearch, RabbitMQ, Docker, CI/CD (Jenkins)
+        title: Technical
+      - detail: DevOps, Agile, Scrum
+        title: Methodology
+      - detail: Team management, Project coordination, Mentoring
+        title: Leadership
+
 career-profile:
   title: Career Profile
   summary: |
@@ -88,7 +98,7 @@ experiences:
       - Implementing and managing the complete CI/CD pipeline and infrastructure
       - Backend development and coordination with the product team
       - Organizing work using agile methodology with 3-week sprints
-    skills: Java 21, Spring Boot, React, Opensearch, RabbitMQ, Docker, CI/CD, DevOps, Agile Methodology, Microservices architecture, SaaS, Team management, Project coordination
+    skills: Java 21, Spring Boot, React, Opensearch, RabbitMQ, Docker, CI/CD, Jenkins, DevOps, Agile Methodology, Scrum, Microservices architecture, SaaS, Team management, Project coordination
   - role: Software Architect - Spark Solution
     time: 2018 - 2023
     company: Spark Archives, Le Plessis-Robinson
@@ -99,7 +109,8 @@ experiences:
       - Modernization of the technical stack
       - Development of custom Maven plugins to optimize and automate build processes
       - Creation of IntelliJ IDEA plugins to enhance team productivity and standardize coding practices
-    skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, ISO and NF standards for electronic archiving, Maven plugin development, IntelliJ plugin development
+      - Design and development of an Android client in Kotlin for Honeywell Dolphin CT 40 terminals, enabling warehouse operators to track archive operations
+    skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, ISO and NF standards for electronic archiving, Maven plugin development, IntelliJ plugin development, Kotlin, Android
   - role: Tech Lead - Spark Solution
     time: 2015 - 2018
     company: Spark Archives, Le Plessis-Robinson

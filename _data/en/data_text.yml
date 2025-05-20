@@ -52,6 +52,16 @@ sidebar:
     - item: Lego
     - item: Concerts
 
+  skills:
+    title: Skills
+    info:
+      - detail: Java, Spring Boot, Elasticsearch/Opensearch, RabbitMQ, Docker, CI/CD (Jenkins)
+        title: Technical
+      - detail: DevOps, Agile, Scrum
+        title: Methodology
+      - detail: Team management, Project coordination, Mentoring
+        title: Leadership
+
 career-profile:
   title: Career Profile
   summary: |
@@ -87,7 +97,7 @@ experiences:
       I designed the microservices architecture in a containerized environment and implemented the complete CI/CD pipeline and infrastructure.
       I actively contribute to backend development while ensuring effective coordination with the product team.
       I organize work according to agile methodology with 3-week sprints to ensure regular delivery of quality features.
-    skills: Java 21, Spring Boot, React, Opensearch, RabbitMQ, Docker, CI/CD, DevOps, Agile Methodology, Microservices architecture, SaaS, Team management, Project coordination
+    skills: Java 21, Spring Boot, React, Opensearch, RabbitMQ, Docker, CI/CD, Jenkins, DevOps, Agile Methodology, Scrum, Microservices architecture, SaaS, Team management, Project coordination
   - role: Software Architect - Spark Solution
     time: 2018 - 2023
     company: Spark Archives, Le Plessis-Robinson
@@ -95,7 +105,8 @@ experiences:
       I evolved into the role of architect for the physical and electronic records management solution, taking responsibility for the technical architecture and technology choices.
       I ensured software compliance with NF and ISO standards for electronic archiving, while driving the modernization of the technical stack to improve system performance and scalability.
       I also developed custom Maven plugins to optimize and automate our build processes, as well as IntelliJ IDEA plugins to enhance the development team's productivity and standardize coding practices.
-    skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, ISO and NF standards for electronic archiving, Maven plugin development, IntelliJ plugin development
+      Additionally, I designed and developed an Android client in Kotlin, deployed on Honeywell Dolphin CT 40 terminals, enabling warehouse operators to track and manage physical archive operations.
+    skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, ISO and NF standards for electronic archiving, Maven plugin development, IntelliJ plugin development, Kotlin, Android
   - role: Tech Lead - Spark Solution
     time: 2015 - 2018
     company: Spark Archives, Le Plessis-Robinson

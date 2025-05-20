@@ -52,6 +52,16 @@ sidebar:
       - item: Lego
       - item: Concerts
 
+  skills:
+    title: Compétences
+    info:
+      - detail: Java, Spring Boot, Elasticsearch/Opensearch, RabbitMQ, Docker, CI/CD (Jenkins)
+        title: Technique
+      - detail: DevOps, Méthodologie Agile, Scrum
+        title: Méthodologie
+      - detail: Gestion d'équipe, Coordination de projet, Mentoring
+        title: Leadership
+
 career-profile:
   title: Profil
   summary: |
@@ -88,7 +98,7 @@ experiences:
         - Mise en place et gestion complète de la chaîne CI/CD et de l'infrastructure
         - Développement backend et coordination avec l'équipe produit
         - Organisation du travail en méthodologie agile avec sprints de 3 semaines
-      skills: Java 21, Spring Boot, React, Opensearch, RabbitMQ, Docker, CI/CD, DevOps, Méthodologie Agile, Architecture microservices, SaaS, Gestion d'équipe, Coordination de projets
+      skills: Java 21, Spring Boot, React, Opensearch, RabbitMQ, Docker, CI/CD, Jenkins, DevOps, Méthodologie Agile, Scrum, Architecture microservices, SaaS, Gestion d'équipe, Coordination de projets
     - role: Architecte Logiciel - Solution Spark
       time: 2018 - 2023
       company: Spark Archives, Le Plessis-Robinson
@@ -99,7 +109,8 @@ experiences:
         - Modernisation de la stack technique
         - Développement de plugins Maven personnalisés pour optimiser et automatiser les processus de build
         - Création de plugins pour IntelliJ IDEA afin d'améliorer la productivité de l'équipe et standardiser les pratiques de codage
-      skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, Normes ISO et NF pour l'archivage électronique, Développement de plugins Maven, Développement de plugins IntelliJ
+        - Conception et développement d'un client Android en Kotlin pour terminaux Honeywell Dolphin CT 40, permettant le suivi des opérations sur les archives dans les entrepôts
+      skills: Java, JSF, PostgreSQL, Elasticsearch, RabbitMQ, Normes ISO et NF pour l'archivage électronique, Développement de plugins Maven, Développement de plugins IntelliJ, Kotlin, Android
     - role: Tech Lead - Solution Spark
       time: 2015 - 2018
       company: Spark Archives, Le Plessis-Robinson
